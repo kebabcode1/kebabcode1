@@ -1,8 +1,13 @@
 ## Hi there 👋
+
 I'm a software engineer working on some things :)
+
 🔭I'm working on PassmanGO, a offline secure password manager built in GO.
+
 🌱Learning C & GO
+
 🤔Looking for ideas on features to add to my projects
+
 😄Pronouns : he/him
 
 <!--
