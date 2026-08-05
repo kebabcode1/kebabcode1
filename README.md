@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a software engineer working on some things :)<br><br>🔭I'm working on PassmanGO, a offline secure password manager built in GO.<br><br>🌱Learning C & GO<br><br>🤔Looking for ideas on features to add to my projects<br><br>😄Pronouns : he/him<br><br>
+I'm a software engineer working on some things :)<br><br>🔭I'm working on Pulse autoclicker, a blazing-fast autoclicker built in Rust. .<br><br>🌱Learning C & GO<br><br>🤔Looking for ideas on features to add to my projects<br><br>😄Pronouns : he/him<br><br>
 
 
 # 💻 Tech Stack:
